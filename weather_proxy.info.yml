@@ -1,0 +1,6 @@
+name: Weather Proxy
+description: Proxy for Dark Sky API
+package: FENS
+type: module
+version: 1.0
+core: 8.x

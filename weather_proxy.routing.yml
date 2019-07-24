@@ -1,0 +1,7 @@
+example.content:
+  path: '/proxy' 
+  defaults: 
+    _controller: '\Drupal\weather_proxy\Controller\ProxyController::content' 
+    _title: 'Hello World'
+  requirements: 
+    _permission: 'access content' 
